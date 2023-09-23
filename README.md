@@ -27,9 +27,10 @@ Backlog solicitada pelo Product Owner.
 ![aaa](https://github.com/Gabrielrck1/Ilha-dos-bolos/assets/100093097/21ee637b-06c8-4224-b391-8f22e7660499)
 
 # Links-sociais-criadores
-www.linkedin.com/in/
-gabrielvasconcelos
+www.linkedin.com/in/gabrielvasconcelos
+
 https://github.com/Gabrielrck1
+
 //////
 
 
