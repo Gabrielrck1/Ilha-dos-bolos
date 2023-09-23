@@ -8,4 +8,4 @@ Por conta da pandemia, o acesso a sites e compras de produtos online praticament
 
 O desenvolvimento do projeto web ilha dos bolos, permitirá aos usuários a inscrição na plataforma por meio de um formulário e a realização de cursos e matrícula dos mesmos em uma navegação responsiva. Foi baseado na metodologia ágil Scrum, tendo: Matheus Prates Oliveira como o Scrum Master do projeto; Gabriel Vasconcellos Morassutti e Lucas Patrício da Silva como Team Scrum no desenvolvimento de todo o projeto, responsáveis por desenvolver a Product Backlog solicitada pelo Product Owner.
 
-![aaa](https://github.com/Gabrielrck1/Ilha-dos-bolos/assets/100093097/d62816b8-1b3e-4eee-8c1c-08c9561a8373)
+![aaa](https://github.com/Gabrielrck1/Ilha-dos-bolos/assets/100093097/21ee637b-06c8-4224-b391-8f22e7660499)
