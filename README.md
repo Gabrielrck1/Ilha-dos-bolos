@@ -31,6 +31,9 @@ www.linkedin.com/in/gabrielvasconcelos
 
 https://github.com/Gabrielrck1
 
+https://www.linkedin.com/in/lucas-patr%C3%ADcio-da-silva-213882228/
+
+https://github.com/patrilucas
 //////
 
 # perguntas-frequentes
